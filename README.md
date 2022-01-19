@@ -19,7 +19,7 @@ Apenas uma biblioteca é necessária
   pip install deep_translator
 ```
     
-## Autores
+## Autor
 
 - [@leonidas-marques](https://github.com/leonidas-marques)
 
